@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basedb/basedb.iml" filepath="$PROJECT_DIR$/basedb/basedb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basehttp/basehttp.iml" filepath="$PROJECT_DIR$/basehttp/basehttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu.iml" filepath="$PROJECT_DIR$/edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edugreendao/edugreendao.iml" filepath="$PROJECT_DIR$/edugreendao/edugreendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home/home.iml" filepath="$PROJECT_DIR$/home/home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall/mall.iml" filepath="$PROJECT_DIR$/mall/mall.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':login', ':mall', ':home', ':basehttp', ':basedb', ':edugreendao'
